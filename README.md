@@ -1,4 +1,5 @@
 # 🎧 SoundCloud Clone API
+> 🔗 Proyecto relacionado: [SoundCloud Clone Frontend](https://github.com/sevillanodev/soundcloud-clone-frontend) — cliente en React + TypeScript que consume esta API.
 
 Backend Web API tipo SoundCloud construida en **.NET 8 (C#)** siguiendo **Clean Architecture**, con autenticación JWT, subida de archivos multimedia y **audio streaming real mediante Range Requests (HTTP 206 Partial Content)**.
 
