@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SoundCloudCloneApi.API/SoundCloudCloneApi.API.csproj" />
+    <Project Path="src/SoundCloudCloneApi.Application/SoundCloudCloneApi.Application.csproj" />
+    <Project Path="src/SoundCloudCloneApi.Domain/SoundCloudCloneApi.Domain.csproj" />
+    <Project Path="src/SoundCloudCloneApi.Infrastructure/SoundCloudCloneApi.Infrastructure.csproj" />
+  </Folder>
+</Solution>

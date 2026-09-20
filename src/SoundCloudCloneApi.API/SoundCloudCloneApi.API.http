@@ -1,0 +1,6 @@
+@SoundCloudCloneApi.API_HostAddress = http://localhost:5138
+
+GET {{SoundCloudCloneApi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

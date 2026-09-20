@@ -1,0 +1,18 @@
+﻿## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Archivos de configuración con secretos
+appsettings.Development.json
+appsettings.Local.json
+
+## Base de datos local
+*.mdf
+*.ldf
+
+## Sistema operativo
+.DS_Store
+Thumbs.db
