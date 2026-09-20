@@ -16,3 +16,7 @@ appsettings.Local.json
 ## Sistema operativo
 .DS_Store
 Thumbs.db
+
+src/SoundCloudCloneApi.API/wwwroot/uploads/audio/*
+
+!src/SoundCloudCloneApi.API/wwwroot/uploads/audio/.gitkeep
